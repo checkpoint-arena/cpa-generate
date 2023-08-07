@@ -122,6 +122,7 @@ for checkpoint_data, prompt_data, neg_prompt_setting in product(checkpoints, pro
         'checkpoint': checkpoint,
         'checkpoint_name': checkpoint_name,
         'category': category,
+        'url': url,
     }
     prompt_map[prompt_id] = prompt
     if checkpoint_id not in category_map[category]:

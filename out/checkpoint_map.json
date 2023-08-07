@@ -2,296 +2,355 @@
   "absrealv10": {
     "checkpoint": "absolutereality_v10",
     "checkpoint_name": "AbsoluteReality v1",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/81458?modelVersionId=86437"
   },
   "absrealv181": {
     "checkpoint": "absolutereality_v181",
     "checkpoint_name": "AbsoluteReality v1.8.1",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/81458?modelVersionId=132760"
   },
   "analogmadv50": {
     "checkpoint": "analogMadness_v50",
     "checkpoint_name": "Analog Madness - Realistic model v5.0",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/8030?modelVersionId=101080"
   },
   "archrealv10": {
     "checkpoint": "architecturerealmix_v10",
     "checkpoint_name": "ArchitectureRealMix",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/84958/architecturerealmix"
   },
   "azovyaphotov1u": {
     "checkpoint": "aZovyaPhotoreal_v1Ultra",
     "checkpoint_name": "A-Zovya Photoreal V1 Ultra",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/57319?modelVersionId=61735"
   },
   "azovyaphotov2": {
     "checkpoint": "aZovyaPhotoreal_v2",
     "checkpoint_name": "A-Zovya Photoreal V2",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/57319?modelVersionId=99805"
   },
   "cosplayv20": {
     "checkpoint": "cosplaymix_v20",
     "checkpoint_name": "CosplayMix v2.0",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/34502?modelVersionId=48334"
   },
   "cosplayv41": {
     "checkpoint": "cosplaymix_v41",
     "checkpoint_name": "CosplayMix v4.1",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/34502?modelVersionId=98501"
   },
   "cyberrealv30": {
     "checkpoint": "cyberrealistic_v30",
     "checkpoint_name": "CyberRealistic v3.0",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/15003?modelVersionId=79754"
   },
   "eorv20": {
     "checkpoint": "edgeOfRealism_eorV20Fp16BakedVAE",
     "checkpoint_name": "Edge Of Realism v2.0",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/21813?modelVersionId=51913"
   },
   "henmixrealv40": {
     "checkpoint": "henmixReal_v40",
     "checkpoint_name": "Henmix_Real v4.0",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/20282?modelVersionId=70458"
   },
   "hrl32": {
     "checkpoint": "hrl32_hrl32",
     "checkpoint_name": "HRL v3.2",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/8616?modelVersionId=16369"
   },
   "icbinpv8": {
     "checkpoint": "icbinpICantBelieveIts_v8",
     "checkpoint_name": "ICBINP - \"I Can't Believe It's Not Photography\" v8",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/28059?modelVersionId=83527"
   },
   "majicrealv5": {
     "checkpoint": "majicmixRealistic_v5",
     "checkpoint_name": "majicMIX realistic v5",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/43331?modelVersionId=82446"
   },
   "majicrealv6": {
     "checkpoint": "majicmixRealistic_v6",
     "checkpoint_name": "majicMIX realistic v6",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/43331?modelVersionId=94640"
   },
   "photonv1": {
     "checkpoint": "photon_v1",
     "checkpoint_name": "Photon v1",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/84728/photon"
   },
   "realvisv20": {
     "checkpoint": "realisticVision_v20",
     "checkpoint_name": "Realistic Vision v2.0",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/4201?modelVersionId=29460"
   },
   "reliberatev10": {
     "checkpoint": "reliberate_v10",
     "checkpoint_name": "Reliberate v1.0",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/79754/reliberate"
   },
   "rundifffxv10": {
     "checkpoint": "rundiffusionFX_v10",
     "checkpoint_name": "RunDiffusion FX Photorealistic",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/82972/rundiffusion-fx-photorealistic"
   },
   "urpmv13": {
     "checkpoint": "urpmv13",
     "checkpoint_name": "Uber Realistic Porn Merge v1.3",
-    "category": "photo"
+    "category": "photo",
+    "url": "https://civitai.com/models/2661?modelVersionId=15640"
   },
   "azovyarpgv3": {
     "checkpoint": "aZovyaRPGArtistTools_v3VAE",
     "checkpoint_name": "A-Zovya RPG Artist Tools v3",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/8124?modelVersionId=87886"
   },
   "beenyour11": {
     "checkpoint": "beenyou_r11",
     "checkpoint_name": "BeenYou R11",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/27688?modelVersionId=64889"
   },
   "colorfulv31": {
     "checkpoint": "colorful_v31",
     "checkpoint_name": "Colorful v3.1",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/7279?modelVersionId=90599"
   },
   "ddosmixv2": {
     "checkpoint": "ddosmix_V2",
     "checkpoint_name": "DDosMix v2",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/8437?modelVersionId=12183"
   },
   "deliberatev2": {
     "checkpoint": "deliberate_v2",
     "checkpoint_name": "Deliberate v2",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/4823?modelVersionId=15236"
   },
   "dreamshaper4": {
     "checkpoint": "dreamshaper_4BakedVaeFp16",
     "checkpoint_name": "DreamShaper v4",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/4384?modelVersionId=24365"
   },
   "dreamshaper6": {
     "checkpoint": "dreamshaper_6BakedVae",
     "checkpoint_name": "DreamShaper v6",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/4384?modelVersionId=78164"
   },
   "ghostmixv20": {
     "checkpoint": "ghostmix_v20Bakedvae",
     "checkpoint_name": "GhostMix v2.0",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/36520?modelVersionId=76907"
   },
   "gameicov30": {
     "checkpoint": "gameIconInstitute_v30",
     "checkpoint_name": "Game Icon Institute_mode v3.0",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/47800?modelVersionId=76533"
   },
   "lyrielv16": {
     "checkpoint": "lyriel_v16",
     "checkpoint_name": "Lyriel v1.6",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/22922?modelVersionId=72396"
   },
   "mdjrnyv4": {
     "checkpoint": "mdjrny-v4",
     "checkpoint_name": "OpenJourney v4",
-    "category": "other"
+    "category": "other",
+    "url": "https://huggingface.co/prompthero/openjourney/blob/main/mdjrny-v4.safetensors"
   },
   "ned": {
     "checkpoint": "neverendingDreamNED_bakedVae",
     "checkpoint_name": "NeverEnding Dream v1",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/10028?modelVersionId=11925"
   },
   "protogenv22a": {
     "checkpoint": "protogenV22Anime_22",
     "checkpoint_name": "Protogen v2.2 (Anime)",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/3627/protogen-v22-anime-official-release"
   },
   "revanimv121": {
     "checkpoint": "revAnimated_v121",
     "checkpoint_name": "ReV Animated v1.2.1",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/7371?modelVersionId=40248"
   },
   "rpgv4": {
     "checkpoint": "rpg_V4",
     "checkpoint_name": "RPG v4",
-    "category": "other"
+    "category": "other",
+    "url": "https://civitai.com/models/1116?modelVersionId=7133"
   },
   "sd15": {
     "checkpoint": "v1-5-pruned-emaonly",
     "checkpoint_name": "Stable Diffusion 1.5",
-    "category": "other"
+    "category": "other",
+    "url": "https://huggingface.co/runwayml/stable-diffusion-v1-5"
   },
   "ambgrapev10": {
     "checkpoint": "ambientgrapemix_v10",
     "checkpoint_name": "AmbientGrapeMix v1.0",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/30671?modelVersionId=37023"
   },
   "anylora": {
     "checkpoint": "anyloraCheckpoint_bakedvaeFtmseFp16NOT",
     "checkpoint_name": "AnyLoRA - Checkpoint",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/23900?modelVersionId=29792"
   },
   "anythingv5": {
     "checkpoint": "anythingV5PrtRE",
     "checkpoint_name": "Anything v5",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/9409?modelVersionId=30163"
   },
   "anythingv32ink": {
     "checkpoint": "AnythingV5Ink_v32Ink",
     "checkpoint_name": "Anything v3.2 [ink]",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/9409?modelVersionId=90854"
   },
   "aom3": {
     "checkpoint": "AOM3",
     "checkpoint_name": "AbyssOrangeMix3",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/9942?modelVersionId=11814"
   },
   "aom3a1": {
     "checkpoint": "AOM3A1",
     "checkpoint_name": "AbyssOrangeMix3 A1",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/9942?modelVersionId=11813"
   },
   "aom3a1b": {
     "checkpoint": "AOM3A1B",
     "checkpoint_name": "AbyssOrangeMix3 A1B",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/9942?modelVersionId=17233"
   },
   "aom3a2": {
     "checkpoint": "AOM3A2",
     "checkpoint_name": "AbyssOrangeMix3 A2",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/9942?modelVersionId=11812"
   },
   "aom3a3": {
     "checkpoint": "AOM3A3",
     "checkpoint_name": "AbyssOrangeMix3 A3",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/9942?modelVersionId=11811"
   },
   "breakdomaini2428": {
     "checkpoint": "breakdomain_I2428",
     "checkpoint_name": "BreakDomain i2428",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/50520?modelVersionId=96424"
   },
   "cetuswhale": {
     "checkpoint": "cetusMix_whalefall",
     "checkpoint_name": "Cetus-Mix WhaleFall",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/6755?modelVersionId=36936"
   },
   "cetusv4": {
     "checkpoint": "cetusMix_v4",
     "checkpoint_name": "Cetus-Mix v4",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/6755?modelVersionId=78676"
   },
   "counterfv30": {
     "checkpoint": "CounterfeitV30_v30",
     "checkpoint_name": "Counterfeit v3.0",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/4468?modelVersionId=57618"
   },
   "darksushi225d": {
     "checkpoint": "darkSushiMixMix_225D",
     "checkpoint_name": "Dark Sushi Mix 2.25D",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/24779?modelVersionId=93208"
   },
   "hassakuv11": {
     "checkpoint": "hassaku_v11",
     "checkpoint_name": "Hassaku v1.1",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/2583?modelVersionId=37521"
   },
   "hassakuv12": {
     "checkpoint": "hassakuHentaiModel_v12",
     "checkpoint_name": "Hassaku v1.2",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/2583?modelVersionId=62528"
   },
   "grapefruitv41": {
     "checkpoint": "hm_grapefruitv41",
     "checkpoint_name": "Grapefruit v4.1",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/24383?modelVersionId=29179"
   },
   "meinav9": {
     "checkpoint": "meinamix_meinaV9",
     "checkpoint_name": "MeinaMix v9",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/7240?modelVersionId=46137"
   },
   "meinav10": {
     "checkpoint": "meinamix_meinaV10",
     "checkpoint_name": "MeinaMix v10",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/7240?modelVersionId=80511"
   },
   "mistoonav2": {
     "checkpoint": "mistoonAnime_v20",
     "checkpoint_name": "Mistoon_Anime v2",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/24149?modelVersionId=108545"
   },
   "nyan230303a2": {
     "checkpoint": "nyanMix_230303Absurd2",
     "checkpoint_name": "Nyan Mix 230303 Absurd2",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/14373?modelVersionId=18151"
   },
   "nyan230303n": {
     "checkpoint": "nyanMix_230303Normal",
     "checkpoint_name": "Nyan Mix 230303 Normal",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/14373?modelVersionId=17818"
   },
   "tmndmixiv": {
     "checkpoint": "tmndMix_tmndMixIVPruned",
     "checkpoint_name": "TMND-Mix IV",
-    "category": "anime"
+    "category": "anime",
+    "url": "https://civitai.com/models/27259?modelVersionId=88859"
   }
 }
