@@ -132,13 +132,13 @@ for checkpoint_data, prompt_data, neg_prompt_setting in product(checkpoints, pro
 
 # store the results in JSON files
 
-with open('out/checkpoint_map.json', 'w') as file:
+with open('out/checkpoint_map.json', 'w', newline='\n') as file:
     json.dump(checkpoint_map, file, indent=2)
-with open('out/prompt_map.json', 'w') as file:
+with open('out/prompt_map.json', 'w', newline='\n') as file:
     json.dump(prompt_map, file, indent=2)
-with open('out/category_map.json', 'w') as file:
+with open('out/category_map.json', 'w', newline='\n') as file:
     json.dump(category_map, file, indent=2)
-with open('out/meta_info.json', 'w') as file:
+with open('out/meta_info.json', 'w', newline='\n') as file:
     json.dump({ "gen_time": datetime.now().isoformat(), "total_imgs": gen_img_count }, file, indent=2)
 
 repo_dir = os.getcwd()

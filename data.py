@@ -17,7 +17,8 @@ prompts = [
 ]
 
 checkpoints = [
-    ('absolutereality_v10'             , 'absrealv10'    , 'photo', 'AbsoluteReality'                                     , 'https://civitai.com/models/81458?modelVersionId=86437'),
+    ('absolutereality_v10'             , 'absrealv10'    , 'photo', 'AbsoluteReality v1'                                  , 'https://civitai.com/models/81458?modelVersionId=86437'),
+    ('absolutereality_v181'            , 'absrealv181'   , 'photo', 'AbsoluteReality v1.8.1'                              , 'https://civitai.com/models/81458?modelVersionId=132760'),
     ('analogMadness_v50'               , 'analogmadv50'  , 'photo', 'Analog Madness - Realistic model v5.0'               , 'https://civitai.com/models/8030?modelVersionId=101080'),
     ('architecturerealmix_v10'         , 'archrealv10'   , 'photo', 'ArchitectureRealMix'                                 , 'https://civitai.com/models/84958/architecturerealmix'),
     ('aZovyaPhotoreal_v1Ultra'         , 'azovyaphotov1u', 'photo', 'A-Zovya Photoreal V1 Ultra'                          , 'https://civitai.com/models/57319?modelVersionId=61735'),
@@ -52,6 +53,7 @@ checkpoints = [
     ('protogenV22Anime_22'         , 'protogenv22a', 'other', 'Protogen v2.2 (Anime)'        , 'https://civitai.com/models/3627/protogen-v22-anime-official-release'),
     ('revAnimated_v121'            , 'revanimv121' , 'other', 'ReV Animated v1.2.1'          , 'https://civitai.com/models/7371?modelVersionId=40248'),
     ('rpg_V4'                      , 'rpgv4'       , 'other', 'RPG v4'                       , 'https://civitai.com/models/1116?modelVersionId=7133'),
+    ('v1-5-pruned-emaonly'         , 'sd15'        , 'other', 'Stable Diffusion 1.5'         , 'https://huggingface.co/runwayml/stable-diffusion-v1-5'),
 
     ('ambientgrapemix_v10'                   , 'ambgrapev10'     , 'anime', 'AmbientGrapeMix v1.0'   , 'https://civitai.com/models/30671?modelVersionId=37023'),
     ('anyloraCheckpoint_bakedvaeFtmseFp16NOT', 'anylora'         , 'anime', 'AnyLoRA - Checkpoint'   , 'https://civitai.com/models/23900?modelVersionId=29792'),

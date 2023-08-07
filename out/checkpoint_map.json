@@ -1,7 +1,12 @@
 {
   "absrealv10": {
     "checkpoint": "absolutereality_v10",
-    "checkpoint_name": "AbsoluteReality",
+    "checkpoint_name": "AbsoluteReality v1",
+    "category": "photo"
+  },
+  "absrealv181": {
+    "checkpoint": "absolutereality_v181",
+    "checkpoint_name": "AbsoluteReality v1.8.1",
     "category": "photo"
   },
   "analogmadv50": {
@@ -167,6 +172,11 @@
   "rpgv4": {
     "checkpoint": "rpg_V4",
     "checkpoint_name": "RPG v4",
+    "category": "other"
+  },
+  "sd15": {
+    "checkpoint": "v1-5-pruned-emaonly",
+    "checkpoint_name": "Stable Diffusion 1.5",
     "category": "other"
   },
   "ambgrapev10": {
