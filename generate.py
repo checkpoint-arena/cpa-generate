@@ -101,7 +101,7 @@ for checkpoint_data, prompt_data, neg_prompt_setting in product(checkpoints, pro
     print(output_prefix)
     set_output_prefix(output_prefix)
 
-    expected_fn = "{}_{:05d}_.png".format(output_prefix, 6)
+    expected_fn = "{}_{:05d}.png".format(output_prefix, 6)
     expected_path = os.path.join(output_dir, expected_fn)
     print(expected_path)
 
